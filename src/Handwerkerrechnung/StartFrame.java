@@ -1,9 +1,9 @@
 package Handwerkerrechnung;
 
-public class Programm {
+public class StartFrame {
     public static void main(String[] args) {
 
-        var programm = new Rechner();
+        var startFrame = new Rechner();
 
     }
 }
